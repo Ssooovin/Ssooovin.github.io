@@ -168,6 +168,12 @@ section h2 {
 header.masthead {
   padding-top: calc(6rem + 72px);
   padding-bottom: 6rem;
+  background-image: url("../img/header.jpg");
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 header.masthead h1 {
